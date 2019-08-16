@@ -1,0 +1,25 @@
+.error-404 {
+  flex: 0 0 100%;
+  font-size: 100px;
+  padding: 20px;
+  text-align: center;
+  color: #777;
+  font-weight: 100;
+}
+
+.error-404-desc {
+  flex: 0 0 100%;
+  font-size: 35px;
+  color: #777;
+  padding: 20px;
+  text-align: center;
+}
+
+.error-404-link {
+  flex: 0 0 100%;
+  font-size: 35px;
+  color: #777;
+  text-decoration: underline;
+  display: flex;
+  justify-content: center;
+}
